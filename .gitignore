@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 .nbgr*
+notebooks/data/
+notebooks/python/*.h5
+notebooks/R/*.h5
