@@ -1,22 +1,66 @@
-# cic-ml-intermediate-workshop
-Machine learning workshop building upon the introductory workshop
+# Intermediate Machine Learning (Python or R)
 
+This ML workshop is build upon the introductory workshop and will cover Deep Learning (specifically ANN and CNN).
 
-## timeline
+The workshop is prepared by:
+- [Daniel Marrable](http://computation.curtin.edu.au/about/computational-specialists/curtin-business-school/)
+- [Rebecca Lange](http://computation.curtin.edu.au/about/computational-specialists/humanities/)
 
-- 13 August: Dan to draft intro lecture, Rebecca code up ANN MNIST example/demo, both reconcile work and define terms used in workshop
-- 20 August: Dan to work on ch 2.1, include visualisations and more explanations, Rebecca to convert fashion_mnist example to jupyter notebook (https://keras.rstudio.com/articles/tutorial_basic_classification.html)
-- 28 August: work on converting and expanding ch 5 examples 
-- 3 September: review notebooks and refine, get others to test and get feedback
-- 10 September: test run
-- 17 September: last refinements, send out pre-workshop email
-- 26 or 27: we are live
+from the [Curtin Institute for Computation](http://computation.curtin.edu.au) at Curtin University in Perth, Australia. 
 
-## Material
-we are using examples form the Deep Learning with Python (R) book
+The notebook materials have been referenced and adapted from the 
+Deep Learning with [Python](https://www.manning.com/books/deep-learning-with-python) / [R](https://www.manning.com/books/deep-learning-with-r) book
+books.
 
 R
 https://github.com/jjallaire/deep-learning-with-r-notebooks
 
 Python
 https://github.com/fchollet/deep-learning-with-python-notebooks
+
+
+# What to expect and what will be covered:
+
+## Prerequisites 
+A working knowledge of Python and Jupyter notebooks is essential for this workshop. i.e. 
+knowledge of basic data structures, operations and how to write scripts. 
+The Python notebooks used throughout the workshop have been developed using Python 3.6.3 
+and the R notebooks have been developed using R version 3.5.1.
+The workshop will use Keras, a high-level API for implementing neural networks. 
+Keras is available for both R (more infor [here](https://keras.rstudio.com/)) and Python (more info [here](https://keras.io/)).
+Please make sure you have it installed before the workshop. If help is required with installation 
+do come along to the Curtin University Hacky Hour, every Wednesday 3-4pm at the Library Makerspace.
+
+*Other required packages for R:*
+
+- ggplot2
+- gridExtra
+- TTR
+
+*Other required packages for Python:*
+
+- numpy
+- matplotlib
+
+
+Please make sure you have everything installed and ready to go for the workshop!
+
+## What will be covered:
+- Deep Learning Workflow:
+   - data prep,
+   - building a nework,
+   - training the model, and
+   - evaluation of the model
+- Artificial Neural Networks
+- Convolutional Neural Networks
+- Transfer learning
+- Hands on examples and exercises throughout
+
+## What will not be covered:
+- Rigorous mathematical working and proofs.   
+There simply isn't enough time in a workshop format.  
+We will provide links and material that you can and should read.
+
+ 
+
+This work is made available under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
