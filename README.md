@@ -9,39 +9,40 @@ The workshop is prepared by:
 from the [Curtin Institute for Computation](http://computation.curtin.edu.au) at Curtin University in Perth, Australia. 
 
 The notebook materials have been referenced and adapted from the 
-Deep Learning with [Python](https://www.manning.com/books/deep-learning-with-python) / [R](https://www.manning.com/books/deep-learning-with-r) book
-books.
+Deep Learning with [Python](https://www.manning.com/books/deep-learning-with-python) / [R](https://www.manning.com/books/deep-learning-with-r) books.
 
-R
-https://github.com/jjallaire/deep-learning-with-r-notebooks
+Notebooks for R:
+- [this workshop](https://github.com/CurtinIC/cic-ml-intermediate-workshop/tree/master/notebooks/R)
+- [additional notebooks](https://github.com/jjallaire/deep-learning-with-r-notebooks) from the Deep Learning with R book 
 
-Python
-https://github.com/fchollet/deep-learning-with-python-notebooks
+Notebooks for Python
+- [this workshop](https://github.com/CurtinIC/cic-ml-intermediate-workshop/tree/master/notebooks/python) 
+- [additional notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) from the Deep Learning with Python book 
 
 
-# What to expect and what will be covered:
+# What to expect and what will be covered
 
 ## Prerequisites 
-A working knowledge of Python and Jupyter notebooks is essential for this workshop. i.e. 
+A working knowledge of Python or R and Jupyter notebooks is essential for this workshop. i.e. 
 knowledge of basic data structures, operations and how to write scripts. 
 The Python notebooks used throughout the workshop have been developed using Python 3.6.3 
 and the R notebooks have been developed using R version 3.5.1.
-The workshop will use Keras, a high-level API for implementing neural networks. 
+
+The workshop will use **Keras**, a high-level API for implementing neural networks. 
 Keras is available for both R (more infor [here](https://keras.rstudio.com/)) and Python (more info [here](https://keras.io/)).
 Please make sure you have it installed before the workshop. If help is required with installation 
 do come along to the Curtin University Hacky Hour, every Wednesday 3-4pm at the Library Makerspace.
 
-*Other required packages for R:*
+**Other required packages for R:**
 
 - ggplot2
 - gridExtra
 - TTR
 
-*Other required packages for Python:*
+**Other required packages for Python:**
 
 - numpy
 - matplotlib
-
 
 Please make sure you have everything installed and ready to go for the workshop!
 
