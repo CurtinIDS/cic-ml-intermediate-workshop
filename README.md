@@ -11,13 +11,20 @@ from the [Curtin Institute for Computation](http://computation.curtin.edu.au) at
 The notebook materials have been referenced and adapted from the 
 Deep Learning with [Python](https://www.manning.com/books/deep-learning-with-python) / [R](https://www.manning.com/books/deep-learning-with-r) books.
 
-Notebooks for R:
+## Notebooks 
+### R:
 - [this workshop](https://github.com/CurtinIC/cic-ml-intermediate-workshop/tree/master/notebooks/R)
 - [additional notebooks](https://github.com/jjallaire/deep-learning-with-r-notebooks) from the Deep Learning with R book 
 
-Notebooks for Python
+### Python
 - [this workshop](https://github.com/CurtinIC/cic-ml-intermediate-workshop/tree/master/notebooks/python) 
 - [additional notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) from the Deep Learning with Python book 
+
+## Cheatsheets
+
+Python: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf
+
+R: https://www.rstudio.com/resources/cheatsheets/#keras
 
 
 # What to expect and what will be covered
