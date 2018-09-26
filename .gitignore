@@ -1,7 +1,8 @@
 .ipynb_checkpoints
 .nbgr*
 .DS_Store
-notebooks/data/
+notebooks/data/*
+!notebooks/data/cat_activations/
 notebooks/python/*.h5
 notebooks/R/*.h5
 notebooks/R/cat_activations/
