@@ -26,6 +26,11 @@ Python: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_She
 
 R: https://www.rstudio.com/resources/cheatsheets/#keras
 
+## Data files
+
+[cata and dogs] https://drive.google.com/open?id=1H5do852RlW7EdALFQOiP6hro7zB--AY9
+[model files] https://drive.google.com/open?id=1cWi0hhl6c9CnQmw8nwYPwtiCfHLG2EA6
+
 
 # What to expect and what will be covered
 
